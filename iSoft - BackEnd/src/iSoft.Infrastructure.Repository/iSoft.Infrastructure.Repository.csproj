@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.28" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\iSoft.Cross.Common\iSoft.Cross.Common.csproj" />
+    <ProjectReference Include="..\iSoft.Domain.Entity\iSoft.Domain.Entity.csproj" />
+    <ProjectReference Include="..\iSoft.Infraestructure.Interface\iSoft.Infrastructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

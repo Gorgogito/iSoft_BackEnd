@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LXSc3vPkDQ44cToT5LOQik44fDjPowMXk43G3Yc3K9x5LiU1n1SiDbYUPwTu7KVOw0rl67rZTYEKyIqUOnOHWA==",
+  "success": true,
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.Interface\\iSoft.Application.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ta_jo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://nuget.grapecity.com/nuget\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\bin\Debug\net8.0\iSoft.Cross.Common.deps.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\bin\Debug\net8.0\iSoft.Cross.Common.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\bin\Debug\net8.0\iSoft.Cross.Common.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.csproj.AssemblyReference.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.AssemblyInfoInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.AssemblyInfo.cs
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.sourcelink.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\refint\iSoft.Cross.Common.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\iSoft.Cross.Common.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Cross.Common\obj\Debug\net8.0\ref\iSoft.Cross.Common.dll

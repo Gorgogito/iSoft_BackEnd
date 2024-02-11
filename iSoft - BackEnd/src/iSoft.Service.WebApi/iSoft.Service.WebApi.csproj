@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>false</InvariantGlobalization>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Service.WebApi\iSoft.Service.WebApi.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.1" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\iSoft.Application.DTO\iSoft.Application.DTO.csproj" />
+    <ProjectReference Include="..\iSoft.Application.Interface\iSoft.Application.Interface.csproj" />
+    <ProjectReference Include="..\iSoft.Application.Main\iSoft.Application.Main.csproj" />
+    <ProjectReference Include="..\iSoft.Cross.Common\iSoft.Cross.Common.csproj" />
+    <ProjectReference Include="..\iSoft.Cross.Logging\iSoft.Cross.Logging.csproj" />
+    <ProjectReference Include="..\iSoft.Cross.Mapper\iSoft.Cross.Mapper.csproj" />
+    <ProjectReference Include="..\iSoft.Domain.Core\iSoft.Domain.Core.csproj" />
+    <ProjectReference Include="..\iSoft.Domain.Entity\iSoft.Domain.Entity.csproj" />
+    <ProjectReference Include="..\iSoft.Domain.Interface\iSoft.Domain.Interface.csproj" />
+    <ProjectReference Include="..\iSoft.Infraestructure.Interface\iSoft.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\iSoft.Infrastructure.Data\iSoft.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\iSoft.Infrastructure.Repository\iSoft.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+@iSoft.Service.WebApi_HostAddress = http://localhost:5249
+
+GET {{iSoft.Service.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

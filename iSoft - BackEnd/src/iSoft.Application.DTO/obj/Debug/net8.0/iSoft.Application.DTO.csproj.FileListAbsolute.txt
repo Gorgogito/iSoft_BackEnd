@@ -1,0 +1,12 @@
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\bin\Debug\net8.0\iSoft.Application.DTO.deps.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\bin\Debug\net8.0\iSoft.Application.DTO.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\bin\Debug\net8.0\iSoft.Application.DTO.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\iSoft.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\iSoft.Application.DTO.AssemblyInfoInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\iSoft.Application.DTO.AssemblyInfo.cs
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\iSoft.Application.DTO.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\iSoft.Application.DTO.sourcelink.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\iSoft.Application.DTO.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\refint\iSoft.Application.DTO.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\iSoft.Application.DTO.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.DTO\obj\Debug\net8.0\ref\iSoft.Application.DTO.dll

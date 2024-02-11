@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jx6gQsNKnUf8d6VIb49hTY5Tk3d7E3PGgcbVGuMI0zdoANWi0hasERzPfsOZXeP9VWyg8a7IH5Nggl/tYlluXw==",
+  "success": true,
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Core\\iSoft.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ta_jo\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\ta_jo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://nuget.grapecity.com/nuget\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\iSoft.Application.DTO\iSoft.Application.DTO.csproj" />
+    <ProjectReference Include="..\iSoft.Cross.Common\iSoft.Cross.Common.csproj" />
+    <ProjectReference Include="..\iSoft.Domain.Entity\iSoft.Domain.Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="iSoft.Master\IUserApplication.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+</Project>

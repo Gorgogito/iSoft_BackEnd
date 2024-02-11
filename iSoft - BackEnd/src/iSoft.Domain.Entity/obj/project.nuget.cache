@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfw+y0bP/ZO23cdvbaoW48eAoCl6DDV5Djtg6laRkPHLKTaRNQF6zP4lMxMqTMwxQpNSP5uqfQVR7P73VI/MwA==",
+  "success": true,
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Entity\\iSoft.Domain.Entity.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://nuget.grapecity.com/nuget\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\iSoft.Application.DTO\iSoft.Application.DTO.csproj" />
+    <ProjectReference Include="..\iSoft.Application.Interface\iSoft.Application.Interface.csproj" />
+    <ProjectReference Include="..\iSoft.Application.Validator\iSoft.Application.Validator.csproj" />
+    <ProjectReference Include="..\iSoft.Domain.Interface\iSoft.Domain.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

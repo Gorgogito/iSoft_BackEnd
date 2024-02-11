@@ -1,0 +1,16 @@
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\bin\Debug\net8.0\iSoft.Infrastructure.Interface.deps.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\bin\Debug\net8.0\iSoft.Infrastructure.Interface.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\bin\Debug\net8.0\iSoft.Infrastructure.Interface.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\bin\Debug\net8.0\iSoft.Domain.Entity.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\bin\Debug\net8.0\iSoft.Domain.Entity.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.csproj.AssemblyReference.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.AssemblyInfoInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.AssemblyInfo.cs
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.sourcelink.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.csproj.CopyComplete
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\refint\iSoft.Infrastructure.Interface.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\iSoft.Infrastructure.Interface.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infraestructure.Interface\obj\Debug\net8.0\ref\iSoft.Infrastructure.Interface.dll

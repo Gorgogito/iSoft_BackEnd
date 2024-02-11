@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jg7yb8lyoTmIL4eToYevVsUj3KmYHe+3GwgX097w+xF6GCLoI5SwaveVkH2PEuGOPu7AktF7EnRGRNGt9F/dgg==",
+  "success": true,
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Mapper\\iSoft.Cross.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ta_jo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ta_jo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://nuget.grapecity.com/nuget\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

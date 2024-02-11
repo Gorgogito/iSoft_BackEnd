@@ -1,0 +1,16 @@
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\bin\Debug\net8.0\iSoft.Infrastructure.Data.deps.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\bin\Debug\net8.0\iSoft.Infrastructure.Data.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\bin\Debug\net8.0\iSoft.Infrastructure.Data.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\bin\Debug\net8.0\iSoft.Cross.Common.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\bin\Debug\net8.0\iSoft.Cross.Common.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.AssemblyInfo.cs
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.sourcelink.json
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.csproj.CopyComplete
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\refint\iSoft.Infrastructure.Data.dll
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\iSoft.Infrastructure.Data.pdb
+D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Infrastructure.Data\obj\Debug\net8.0\ref\iSoft.Infrastructure.Data.dll

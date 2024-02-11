@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\iSoft.Domain.Interface\iSoft.Domain.Interface.csproj" />
+    <ProjectReference Include="..\iSoft.Infraestructure.Interface\iSoft.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\iSoft.Infrastructure.Repository\iSoft.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
