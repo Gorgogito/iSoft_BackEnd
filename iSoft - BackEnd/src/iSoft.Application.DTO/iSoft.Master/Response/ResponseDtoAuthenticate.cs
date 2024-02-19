@@ -15,7 +15,7 @@
         public string? Token { get; set; }
         public string? RoleId { get; set; }
         public string? StateId { get; set; }
-        public string? IsSystem { get; set; }
+        public bool? IsSystem { get; set; }
 
     }
 }

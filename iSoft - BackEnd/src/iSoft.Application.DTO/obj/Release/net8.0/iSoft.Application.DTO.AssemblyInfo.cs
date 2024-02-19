@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iSoft.Application.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf684abd4831860716ca1b78b567f0a1930d4e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a18ddc8793a72b6c1d2f404e30d7955e07c9518")]
 [assembly: System.Reflection.AssemblyProductAttribute("iSoft.Application.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iSoft.Application.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

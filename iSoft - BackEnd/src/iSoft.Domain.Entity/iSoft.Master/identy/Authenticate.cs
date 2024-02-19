@@ -45,7 +45,7 @@ namespace iSoft.Domain.Entity.iSoft.Master.identy
     public string? StateId { get; set; }
 
     [Column(Order = 13)]
-    public string? IsSystem { get; set; }
+    public bool? IsSystem { get; set; }
 
   }
 }
