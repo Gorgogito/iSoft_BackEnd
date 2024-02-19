@@ -16,3 +16,21 @@ D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.Validator\obj\Debug\net8.0\iS
 D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.Validator\obj\Debug\net8.0\refint\iSoft.Application.Validator.dll
 D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.pdb
 D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Application.Validator\obj\Debug\net8.0\ref\iSoft.Application.Validator.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\bin\Debug\net8.0\iSoft.Application.Validator.deps.json
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\bin\Debug\net8.0\iSoft.Application.Validator.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\bin\Debug\net8.0\iSoft.Application.Validator.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\bin\Debug\net8.0\iSoft.Application.DTO.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\bin\Debug\net8.0\iSoft.Cross.Common.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\bin\Debug\net8.0\iSoft.Application.DTO.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\bin\Debug\net8.0\iSoft.Cross.Common.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.csproj.AssemblyReference.cache
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.AssemblyInfoInputs.cache
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.AssemblyInfo.cs
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.sourcelink.json
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.csproj.CopyComplete
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\refint\iSoft.Application.Validator.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\iSoft.Application.Validator.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Application.Validator\obj\Debug\net8.0\ref\iSoft.Application.Validator.dll

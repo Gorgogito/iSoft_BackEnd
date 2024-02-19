@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lgU0FiPjWLW+5bwPXaoNkFkO8DU0KEHeeLD2aTwt2FA=",
+  "Source": "iSoft.Service.WebApi",
+  "BasePath": "_content/iSoft.Service.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cPZcK7/oxx4oAOdxrXM20OyqFysFnSxnaE/E1HAdAmFAUaxF9aW4NOLzNKOdjSGfbpC/9RCf6o2f8sPwjT1Qkw==",
+  "dgSpecHash": "DUrozAvKlaanqT2+gxtZG1XB9Drb4/GlaSDZPb1ZE2DvaT5bOLTfyX68S9DQT1BkNdFdTmAEKKcU505i8xI/HQ==",
   "success": true,
-  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Interface\\iSoft.Domain.Interface.csproj",
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Domain.Interface\\iSoft.Domain.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dtIqbLQvA3YbufIupXzxi+K4ja5L3uiHb4oa2+TGdnU=",
+  "Source": "iSoft.Service.WebApi",
+  "BasePath": "_content/iSoft.Service.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znH/IDZWwcSda9vYquTgg7NCpf8X4HE8fltG6ijtso7iOQ2vaSktyA1BYi4imE+E5ksfoRVNpOOh9aC50LdLhQ==",
+  "dgSpecHash": "ZwCFWSdDq5jv6pJ1rCed2pi55S+Tq2hXcHKRTpcTRTTCy70W4TAs1MTCG8g7DE2caACb0PqLYlg/qzoB1YqCSw==",
   "success": true,
-  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.Main\\iSoft.Application.Main.csproj",
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.Main\\iSoft.Application.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ta_jo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ta_jo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",

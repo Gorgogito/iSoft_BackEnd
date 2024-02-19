@@ -1,7 +1,6 @@
 ﻿using iSoft.Domain.Entity.iSoft.Master.identy;
 using iSoft.Domain.Interface.iSoft.Master;
 using iSoft.Infrastructure.Interface.iSoft.Master;
-using iSoft.Infrastructure.Repository.iSoft.Master;
 
 namespace iSoft.Domain.Core.iSoft.Master
 {

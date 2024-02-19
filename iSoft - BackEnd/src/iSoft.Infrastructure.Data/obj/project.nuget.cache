@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z33HnEO58T1ghE8DrpXsUl+pntDF2aclphDLOQViy6MRSfxEuCVCPoqHm9xqSqoC1czhNd8njJNne6Qim1piuQ==",
+  "dgSpecHash": "0q/b46+6JIWVVVTRfzvUp+rlw4Q2BhZ2owx62mcwHMYufqPX53VjQykaH/iT/yBi0Jeu8q9svyRGkVk47sAWEA==",
   "success": true,
-  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Data\\iSoft.Infrastructure.Data.csproj",
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Data\\iSoft.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ta_jo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ta_jo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

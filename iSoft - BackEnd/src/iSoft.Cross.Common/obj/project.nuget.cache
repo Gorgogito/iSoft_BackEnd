@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZL7Se7M13ji78HC/RM2hXcIIoZtsOkthgx5dnztdlNJ2MEpcclXmcCoMAVRhk6f4HypaEJDGcAtGpbavtoDPA==",
+  "dgSpecHash": "9B9IUqb34IFAjSlMxeYB1tlj34kRsr3ebaSCaOBNvHTnJgoGy7f0ktLfpzrrvjAqy7VLG+hhIzUxgeGsuUI7Tg==",
   "success": true,
-  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Common\\iSoft.Cross.Common.csproj",
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Common\\iSoft.Cross.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ta_jo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
   ],

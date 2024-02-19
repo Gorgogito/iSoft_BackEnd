@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jV7eAhzdPyOnJR1ju2QhA/jByW3zEHO8yFe+gAS4SdfQ8dbh9NES4TdRcUPgLCSl5E8PHHQV4QTEogZDcp4ddQ==",
+  "dgSpecHash": "xRSRMxhP1/hJ9eGH40AJ8TqvQupX4ArhXYxkJg/bIp7m+wTCUGC1ITmnI48sLgWW5yAwngm1HqlKDv/9v3xKwQ==",
   "success": true,
-  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Logging\\iSoft.Cross.Logging.csproj",
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Logging\\iSoft.Cross.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ta_jo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\ta_jo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",

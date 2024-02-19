@@ -3201,11 +3201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Service.WebApi\\iSoft.Service.WebApi.csproj",
+      "projectUniqueName": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Service.WebApi\\iSoft.Service.WebApi.csproj",
       "projectName": "iSoft.Service.WebApi",
-      "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Service.WebApi\\iSoft.Service.WebApi.csproj",
+      "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Service.WebApi\\iSoft.Service.WebApi.csproj",
       "packagesPath": "C:\\Users\\ta_jo\\.nuget\\packages\\",
-      "outputPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Service.WebApi\\obj\\",
+      "outputPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Service.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3228,41 +3228,41 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.DTO\\iSoft.Application.DTO.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.DTO\\iSoft.Application.DTO.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.DTO\\iSoft.Application.DTO.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.DTO\\iSoft.Application.DTO.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.Interface\\iSoft.Application.Interface.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.Interface\\iSoft.Application.Interface.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.Interface\\iSoft.Application.Interface.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.Interface\\iSoft.Application.Interface.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.Main\\iSoft.Application.Main.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.Main\\iSoft.Application.Main.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.Main\\iSoft.Application.Main.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.Main\\iSoft.Application.Main.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Common\\iSoft.Cross.Common.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Common\\iSoft.Cross.Common.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Common\\iSoft.Cross.Common.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Common\\iSoft.Cross.Common.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Logging\\iSoft.Cross.Logging.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Logging\\iSoft.Cross.Logging.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Logging\\iSoft.Cross.Logging.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Logging\\iSoft.Cross.Logging.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Mapper\\iSoft.Cross.Mapper.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Cross.Mapper\\iSoft.Cross.Mapper.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Mapper\\iSoft.Cross.Mapper.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Cross.Mapper\\iSoft.Cross.Mapper.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Core\\iSoft.Domain.Core.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Core\\iSoft.Domain.Core.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Domain.Core\\iSoft.Domain.Core.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Domain.Core\\iSoft.Domain.Core.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Entity\\iSoft.Domain.Entity.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Entity\\iSoft.Domain.Entity.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Domain.Entity\\iSoft.Domain.Entity.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Domain.Entity\\iSoft.Domain.Entity.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Interface\\iSoft.Domain.Interface.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Domain.Interface\\iSoft.Domain.Interface.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Domain.Interface\\iSoft.Domain.Interface.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Domain.Interface\\iSoft.Domain.Interface.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Infraestructure.Interface\\iSoft.Infrastructure.Interface.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Infraestructure.Interface\\iSoft.Infrastructure.Interface.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Infraestructure.Interface\\iSoft.Infrastructure.Interface.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Infraestructure.Interface\\iSoft.Infrastructure.Interface.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Data\\iSoft.Infrastructure.Data.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Data\\iSoft.Infrastructure.Data.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Data\\iSoft.Infrastructure.Data.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Data\\iSoft.Infrastructure.Data.csproj"
             },
-            "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Repository\\iSoft.Infrastructure.Repository.csproj": {
-              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Repository\\iSoft.Infrastructure.Repository.csproj"
+            "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Repository\\iSoft.Infrastructure.Repository.csproj": {
+              "projectPath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Infrastructure.Repository\\iSoft.Infrastructure.Repository.csproj"
             }
           }
         }
@@ -3333,7 +3333,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

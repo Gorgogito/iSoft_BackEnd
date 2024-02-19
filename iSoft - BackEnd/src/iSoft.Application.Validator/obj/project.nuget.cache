@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/QpQFNoQD6fEHcO2wSsO1+Ba21NJUqVAKoP+XnoVO3v405hYpMOk+1vT+xBycjdYDnh04JvRJ18k1iNPtHTdwg==",
+  "dgSpecHash": "bZ0pSCaTT2e127eW0TD3ekkV09OYdmymQkkB6twXGcCafEDaIB2yJKSY8+Xl6pzlYhr4O3sINH6KIzoTMCpcHA==",
   "success": true,
-  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft - BackEnd xxx\\iSoft - BackEnd\\src\\iSoft.Application.Validator\\iSoft.Application.Validator.csproj",
+  "projectFilePath": "D:\\Mys Proyectos\\iSoft\\iSoft_BackEnd\\iSoft - BackEnd\\src\\iSoft.Application.Validator\\iSoft.Application.Validator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ta_jo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\ta_jo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
