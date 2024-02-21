@@ -5,6 +5,7 @@ using iSoft.Cross.Common;
 using iSoft.Service.WebApi.Helpers;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -23,11 +24,28 @@ namespace iSoft.Service.WebApi.Controllers
     private readonly IAuthenticateApplication _authenticateApplication;
     private readonly AppSettings _appSettings;
 
-    public AuthenticateController(IAuthenticateApplication authApplication, IOptions<AppSettings> appSettings)
+    private string _minutes;
+
+    //public AuthenticateController(IAuthenticateApplication authApplication, IOptions<AppSettings> appSettings)
+    //{
+    //  _authenticateApplication = authApplication;
+    //  _appSettings = appSettings.Value;
+
+    //}
+
+    public AuthenticateController(IAuthenticateApplication authApplication, IConfiguration configuration)
     {
+      var appSettingsSection = configuration.GetSection("Config");
+      //services.Configure<AppSettings>(appSettingsSection);
+      _minutes = appSettingsSection.GetSection("MinutesExpires").Value;
+      // configure jwt authentication
+      var appSettings = appSettingsSection.Get<AppSettings>();
+
       _authenticateApplication = authApplication;
-      _appSettings = appSettings.Value;
+      _appSettings = appSettings;
+
     }
+
 
     [AllowAnonymous]
     [HttpPost("Authenticate")]
@@ -56,7 +74,7 @@ namespace iSoft.Service.WebApi.Controllers
       {
         Subject = new ClaimsIdentity(new Claim[]
           { new Claim(ClaimTypes.Name, authenticateDto.Data.KeyId) }),
-        Expires = DateTime.UtcNow.AddMinutes(1),
+        Expires = DateTime.UtcNow.AddMinutes(double.Parse(_minutes)),
         SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature),
         Issuer = _appSettings.Issuer,
         Audience = _appSettings.Audience

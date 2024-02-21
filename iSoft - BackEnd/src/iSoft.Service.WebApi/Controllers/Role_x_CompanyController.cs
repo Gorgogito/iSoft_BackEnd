@@ -1,11 +1,12 @@
 ﻿using iSoft.Application.DTO.iSoft.Master.Request;
 using iSoft.Application.Interface.iSoft.Master;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace iSoft.Service.WebApi.Controllers
 {
 
-
+  [Authorize]
   [Route("api/[controller]")]
   [ApiController]
   public class Role_x_CompanyController : Controller

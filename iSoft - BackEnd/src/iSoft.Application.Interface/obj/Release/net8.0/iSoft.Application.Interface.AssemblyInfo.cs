@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iSoft.Application.Interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a18ddc8793a72b6c1d2f404e30d7955e07c9518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+935b71304809741d74b2398176a1a3035131c18b")]
 [assembly: System.Reflection.AssemblyProductAttribute("iSoft.Application.Interface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iSoft.Application.Interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

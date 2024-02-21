@@ -1,4 +1,5 @@
-﻿using Microsoft.OpenApi.Models;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.OpenApi.Models;
 using System.Reflection;
 
 namespace iSoft.Service.WebApi.Modules.Swagger
@@ -34,27 +35,45 @@ namespace iSoft.Service.WebApi.Modules.Swagger
         var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
         c.IncludeXmlComments(xmlPath);
 
-        c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
-        {
-          Description = "Authorization by API key.",
-          In = ParameterLocation.Header,
-          Type = SecuritySchemeType.ApiKey,
-          Name = "Authorization"
-        });
+      var securityScheme = new OpenApiSecurityScheme
+      {
+          //Description = "Authorization by API key.",
+          //In = ParameterLocation.Header,
+          //Type = SecuritySchemeType.ApiKey,
+          //Name = "Authorization"
 
-        c.AddSecurityRequirement(new OpenApiSecurityRequirement {
+          Name = "Authorization",
+          Description = "Enter JWT Bearer token **_only_**",
+          In = ParameterLocation.Header,
+          Type = SecuritySchemeType.Http,
+          Scheme = "bearer",
+          BearerFormat = "JWT",
+          Reference = new OpenApiReference
           {
-            new OpenApiSecurityScheme
-            {
-              Reference = new OpenApiReference
-              {
-                Type = ReferenceType.SecurityScheme,
-                Id = "Bearer"
-              }
-            },
-            new string[]{ }
+            Id = JwtBearerDefaults.AuthenticationScheme,
+            Type = ReferenceType.SecurityScheme
           }
+
+        };
+        c.AddSecurityDefinition(securityScheme.Reference.Id, securityScheme);
+
+        c.AddSecurityRequirement(new OpenApiSecurityRequirement
+          {
+            { securityScheme, new List<string>() { } }
           });
+        //c.AddSecurityRequirement(new OpenApiSecurityRequirement {
+        //  {
+        //    new OpenApiSecurityScheme
+        //    {
+        //      Reference = new OpenApiReference
+        //      {
+        //        Type = ReferenceType.SecurityScheme,
+        //        Id = "Bearer"
+        //      }
+        //    },
+        //    new string[]{ }
+        //  }
+        //  });
       });
       return services;
     }

@@ -22,3 +22,27 @@ D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain
 D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Domain.Core\obj\Debug\net8.0\refint\iSoft.Domain.Core.dll
 D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.pdb
 D:\Mys Proyectos\iSoft\iSoft\src\iSoft.Domain.Core\obj\Debug\net8.0\ref\iSoft.Domain.Core.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Domain.Core.deps.json
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Domain.Core.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Domain.Core.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Cross.Common.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Domain.Entity.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Domain.Interface.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Infrastructure.Interface.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Infrastructure.Repository.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Domain.Interface.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Infrastructure.Interface.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Infrastructure.Repository.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Cross.Common.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\bin\Debug\net8.0\iSoft.Domain.Entity.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.csproj.AssemblyReference.cache
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.AssemblyInfoInputs.cache
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.AssemblyInfo.cs
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.sourcelink.json
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.csproj.CopyComplete
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\refint\iSoft.Domain.Core.dll
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\iSoft.Domain.Core.pdb
+D:\Mys Proyectos\iSoft\iSoft_BackEnd\iSoft - BackEnd\src\iSoft.Domain.Core\obj\Debug\net8.0\ref\iSoft.Domain.Core.dll

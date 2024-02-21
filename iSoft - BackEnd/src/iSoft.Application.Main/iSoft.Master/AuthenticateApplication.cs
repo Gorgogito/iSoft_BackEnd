@@ -42,7 +42,7 @@ namespace iSoft.Application.Main.iSoft.Master
       catch (InvalidOperationException)
       {
         response.IsSuccess = true;
-        response.Message = "Usuario no existe";
+        response.Message = "Usuario o Contraseña incorrecta.";
       }
       catch (Exception e)
       {

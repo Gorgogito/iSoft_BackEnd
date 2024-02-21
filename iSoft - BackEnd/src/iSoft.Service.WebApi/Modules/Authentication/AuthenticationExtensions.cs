@@ -19,7 +19,7 @@ namespace iSoft.Service.WebApi.Modules.Authentication
       var key = Encoding.ASCII.GetBytes(appSettings.Secret);
       var Issuer = appSettings.Issuer;
       var Audience = appSettings.Audience;
-
+      
       services.AddAuthentication(x =>
       {
         x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
