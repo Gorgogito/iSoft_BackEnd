@@ -7,6 +7,7 @@ using iSoft.Domain.Interface.iSoft.Master;
 using iSoft.Infrastructure.Data;
 using iSoft.Infrastructure.Interface.iSoft.Master;
 using iSoft.Infrastructure.Repository.iSoft.Master;
+using iSoft.Infrastructure.Repository.iSoft.Master.Encrypting;
 
 namespace iSoft.Service.WebApi.Modules.Injection
 {
@@ -41,6 +42,10 @@ namespace iSoft.Service.WebApi.Modules.Injection
       services.AddScoped<IRole_x_CompanyApplication, Role_x_CompanyApplication>();
       services.AddScoped<IRole_x_CompanyDomain, Role_x_CompanyDomain>();
       services.AddScoped<IRole_x_CompanyRepository, Role_x_CompanyRepository>();
+
+      services.AddScoped<IEncryptingApplication, EncryptingApplication>();
+      services.AddScoped<IEncryptingDomain, EncryptingDomain>();
+      services.AddScoped<IEncryptingRepository, EncryptingRepository>();
 
       services.AddScoped(typeof(IAppLogger<>), typeof(LoggerAdapter<>));
 
