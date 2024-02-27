@@ -6,7 +6,7 @@ using System.Data;
 
 namespace iSoft.Infrastructure.Repository.iSoft.Master
 {
-  public class AuthenticateRepository: IAuthenticateRepository
+  public class AuthenticateRepository : IAuthenticateRepository
   {
     private readonly IConnectionFactory _connectionFactory;
 
@@ -19,12 +19,20 @@ namespace iSoft.Infrastructure.Repository.iSoft.Master
     {
       using (var connection = _connectionFactory.GetConnection)
       {
-        var query = "[identy].[UserGetByUserAndPassword]";
+        Authenticate user = null;
+        var query = "SELECT COUNT(*) FROM [identy].[User] WHERE UserName = @UserName and Password = [process].EncryptString(@Password, '@')";
+
         var parameters = new DynamicParameters();
+
         parameters.Add("UserName", userName);
         parameters.Add("Password", password);
 
-        var user = connection.QuerySingle<Authenticate>(query, param: parameters, commandType: CommandType.StoredProcedure);
+        var exist = connection.QuerySingle<int>(query, param: parameters, commandType: CommandType.Text);
+        query = "[identy].[UserGetByUserAndPassword]";
+
+        if (exist > 0)
+        { user = connection.QuerySingle<Authenticate>(query, param: parameters, commandType: CommandType.StoredProcedure); }
+
         return user;
       }
     }

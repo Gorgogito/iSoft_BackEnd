@@ -9,17 +9,17 @@ namespace iSoft.Application.Validator
     T _record;
     bool _success;
 
-    public NotRecords(T dto)
+    public NotRecords(T dto, bool isUser = false)
     {
       _record = dto;
       if (dto == null)
       {
-        _response.Message = "No existen registros.";
+        _response.Message = (isUser) ? "Usuario o Contraseña incorrecta." : "No existen registros.";
 
         ErrorResponse err = new ErrorResponse()
         {
-          PropertyName = "Not Records",
-          ErrorMessage = "No se han encontrado registros.",
+          PropertyName = (isUser) ? "Not User" : "Not Records",
+          ErrorMessage = (isUser) ? "Usuario o Contraseña incorrecta." : "No se han encontrado registros.",
           AttemptedValue = "",
           CustomState = null,
           Severity = 0,
